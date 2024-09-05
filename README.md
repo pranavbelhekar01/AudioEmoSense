@@ -1,4 +1,3 @@
-
 # AudioEmoSense: Complex Human Emotion Detection
 ---
 ### Description
